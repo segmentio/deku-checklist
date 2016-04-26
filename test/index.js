@@ -2,7 +2,6 @@
 import element from 'virtual-element';
 import assert from 'assert';
 import { tree, render } from 'deku';
-import trigger from 'compat-trigger-event';
 import { List, Item } from '../src';
 
 const fixture = document.createElement('div');
