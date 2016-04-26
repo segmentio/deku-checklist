@@ -1,0 +1,21 @@
+
+.CheckListItem {
+  display: flex;
+  align-items: baseline;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+
+.CheckListItem[unchecked] .CheckListItem-text  {
+  color: var(--color-fog);
+}
+
+.CheckListItem-icon {
+  position: relative;
+  top: 1px;
+}
+
+.CheckListItem-text {
+  color: var(--color-slate);
+  margin-left: 5px;
+}
