@@ -1,3 +1,4 @@
+[![Circle CI](https://circleci.com/gh/segmentio/deku-checklist.svg?style=svg&circle-token=undefined)](https://circleci.com/gh/segmentio/deku-checklist)
 
 # deku-checklist
 
