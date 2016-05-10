@@ -1,7 +1,7 @@
 
 .CheckListItem {
   display: flex;
-  align-items: baseline;
+  align-items: center;
   line-height: 24px;
   margin-bottom: 5px;
 }
@@ -17,5 +17,5 @@
 
 .CheckListItem-text {
   color: var(--color-slate);
-  margin-left: 5px;
+  margin-left: 9px;
 }

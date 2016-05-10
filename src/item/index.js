@@ -35,5 +35,5 @@ function render({ props }) {
 
 function getIcon(isChecked) {
   if (isChecked) return  <Icon type="done" color={colors.brand.leaf} size="12px" />;
-  return <Icon type="cross" color="#E3E5E8" size="12px" />;
+  return <Icon type="cross" color="#E3E5E8" size="11px" />;
 }
