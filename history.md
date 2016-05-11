@@ -1,4 +1,10 @@
 
+1.0.5 / 2016-05-11
+==================
+
+  * Merge pull request #1 from segmentio/visual-fixes
+  * Fixed spacing
+
 1.0.4 / 2016-04-26
 ==================
 
